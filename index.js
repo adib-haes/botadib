@@ -14,10 +14,10 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'ADIBHATSI BOT'; 
-const instagram = lupa nama aku bang sumpah lah 
-const telegram = ga punya aku bang sumpah
+const instagram = ://www.instagram.com/ahatsi_natsumi.26/
+const telegram = ://web.telegram.org/#/im
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = ga punya aku bang
+const youtube = ://m.youtube.com/
 //const grupch1 = 'ga punya aku bang'; 
 //const grupch2 = 'https://chat.whatsapp.com/FmdbWVelmjR7h0cmAXxenh' ; 
 const
