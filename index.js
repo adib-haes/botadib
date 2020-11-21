@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 /////////////////
 const BotName = 'ADIBHATSI BOT'; 
 const instagram = lupa nama aku bang sumpah lah 
-const telegram = ga lunya
+const telegram = ga punya aku bang sumpah
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = ga punya aku bang
 //const grupch1 = 'ga punya aku bang'; 
